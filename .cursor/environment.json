@@ -1,0 +1,6 @@
+{
+  "name": "Demo-ready base env",
+  "user": "ubuntu",
+  "snapshot": "bld-20261023-1f2f171d-6275-4dc8-b0ce-ed3fcd3a28c7",
+  "install": "node -v && npm -v && npx -v && npm ping && npm view create-expo-app version"
+}
